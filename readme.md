@@ -1,10 +1,11 @@
-# This is the read me of the project
+# linux and git|github awareness session
 
 This is a sample README file for the `gitcourse` project.
 
 ## Description
 
 We will talk about git merging now - kalanaRathnayake
+Hi today we will talk about linux and usage of git and github .. lets learn it well bois
 
 ## How to Use
 
