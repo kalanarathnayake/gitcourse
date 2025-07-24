@@ -1,10 +1,10 @@
-# Test Project
+# linux and git|github awareness session
 
 This is a sample README file for the `gitcourse` project.
 
 ## Description
 
-This project is used to test Git and GitHub workflows, including commits, branches, and pull requests.
+Hi today we will talk about linux and usage of git and github .. lets learn it well bois
 
 ## How to Use
 
