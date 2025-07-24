@@ -1,10 +1,10 @@
-# Test Project
+# This is the read me of the project
 
 This is a sample README file for the `gitcourse` project.
 
 ## Description
 
-This project is used to test Git and GitHub workflows, including commits, branches, and pull requests.
+We will talk about git merging now - kalanaRathnayake
 
 ## How to Use
 
